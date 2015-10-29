@@ -1,0 +1,82 @@
+
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+.searchContainer{
+	width:100%;
+	position:relative;
+	
+}
+
+#h_one {
+    font-family:'Lobster';
+    font-size: 59px;
+    line-height: 60px;
+	
+	text-align: center;
+    padding-top: 9%;
+    
+	text-shadow: 2px 2px 2px #aaa;
+}
+
+#h_two{
+
+ padding-top: 10%;
+    padding-left: -2%;
+    font-size: 270%;
+    text-align: center;
+    text-decoration: blink;
+	color:black;
+	 text-shadow: 2px 2px 2px #aaa;
+}
+
+
+.searchBox{
+	width: 574px;
+    text-align: center;
+    border-color: white;
+    border-width: medium;
+    margin-left: -94%;
+    border: 10px solid navy;
+    border-radius: 10px;
+	height:10%;
+	
+	text-align:left;
+}
+
+.suggestionList{
+	list-style-type:none;
+	background: #777;
+	
+	 margin-left: -94%;
+	width: 558px;
+	height:10%;
+	padding:5%;
+	
+	
+}
+
+.suggestionList:hover{
+	
+	
+}
+
+#sl
+{
+  padding-left: 12%;
+    list-style-type: none;
+	
+	font-size: 220%;
+	text-decoration: blink;
+	color:black;
+}
+
+
+.highlight
+{
+
+}
+
